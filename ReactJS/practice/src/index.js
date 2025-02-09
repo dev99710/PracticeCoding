@@ -5,6 +5,7 @@ import App from './App';
 import TodoApp from './Todo';
 import reportWebVitals from './reportWebVitals';
 import Counter from './Counter';
+import mon from './mongo';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
